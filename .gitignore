@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Restricted / patient-level data
+radiomic_acrin_nsclc_dataset.csv
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.parquet
+data/*.dta
+data/*.sav
+data/*.nii
+data/*.nii.gz
+data/*.dcm
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.xls
+data/**/*.parquet
+
+# Generated outputs and intermediate results
+detailed_train_cv_metrics.csv
+held_out_harmonized_vs_unharmonized_results.csv
+feature_stability_*.csv
+heldout_*.png
+*.pkl
+*.joblib

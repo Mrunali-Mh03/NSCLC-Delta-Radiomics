@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+neuroHarmonize
+imbalanced-learn
+scikit-learn
+xgboost
+jupyterlab
