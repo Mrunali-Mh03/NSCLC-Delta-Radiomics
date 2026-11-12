@@ -5,8 +5,7 @@ classification of 2-year overall-survival status in non-small cell lung cancer (
 
 > **Research status:** This repository is a research-code starter. The current notebooks
 > require methodological revision before their harmonized predictive results can be
-> interpreted as valid prospective prediction or used for clinical purposes. See
-> [`docs/TECHNICAL_REVIEW.md`](docs/TECHNICAL_REVIEW.md).
+> interpreted as valid prospective prediction or used for clinical purposes. 
 
 ## Project overview
 
